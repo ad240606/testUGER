@@ -1,0 +1,14 @@
+\\Dapdc5\AD287668\Desktop\Test\bin\Debug\net10.0\Test.exe
+\\Dapdc5\AD287668\Desktop\Test\bin\Debug\net10.0\Test.deps.json
+\\Dapdc5\AD287668\Desktop\Test\bin\Debug\net10.0\Test.runtimeconfig.json
+\\Dapdc5\AD287668\Desktop\Test\bin\Debug\net10.0\Test.dll
+\\Dapdc5\AD287668\Desktop\Test\bin\Debug\net10.0\Test.pdb
+\\Dapdc5\AD287668\Desktop\Test\obj\Debug\net10.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+\\Dapdc5\AD287668\Desktop\Test\obj\Debug\net10.0\Test.AssemblyInfoInputs.cache
+\\Dapdc5\AD287668\Desktop\Test\obj\Debug\net10.0\Test.AssemblyInfo.cs
+\\Dapdc5\AD287668\Desktop\Test\obj\Debug\net10.0\Test.csproj.CoreCompileInputs.cache
+\\Dapdc5\AD287668\Desktop\Test\obj\Debug\net10.0\Test.dll
+\\Dapdc5\AD287668\Desktop\Test\obj\Debug\net10.0\refint\Test.dll
+\\Dapdc5\AD287668\Desktop\Test\obj\Debug\net10.0\Test.pdb
+\\Dapdc5\AD287668\Desktop\Test\obj\Debug\net10.0\Test.genruntimeconfig.cache
+\\Dapdc5\AD287668\Desktop\Test\obj\Debug\net10.0\ref\Test.dll

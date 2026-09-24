@@ -1,0 +1,2 @@
+\\Dapdc5\AD287668\Desktop\Test\bin\Release\net10.0\win-x64\publish\Test.pdb
+\\Dapdc5\AD287668\Desktop\Test\bin\Release\net10.0\win-x64\publish\Test.exe
